@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadingSpeed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870a1ba40994ee6fde9f2c96b8dab8aa998a3812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2b25f2933b934ce266de9238a6ae7a9b7fc504")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadingSpeed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadingSpeed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
